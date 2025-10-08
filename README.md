@@ -15,7 +15,7 @@
 
 ## inspector
 ```
-npx @modelcontextprotocol/inspector uvx mcp_calculator_kel
+npx @modelcontextprotocol/inspector uvx zhikecore_blog_mcp
 ```
 
 ## MCP 服务器配置
