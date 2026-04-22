@@ -8,49 +8,49 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P7sLk3S0jQ30XQEuEsg3-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="发起" vertex="1">
-          <mxGeometry height="60" width="120" x="310" y="150" as="geometry" />
+          <mxGeometry height="40" width="120" x="310" y="170" as="geometry" />
         </mxCell>
         <mxCell id="P7sLk3S0jQ30XQEuEsg3-9" edge="1" parent="1" source="P7sLk3S0jQ30XQEuEsg3-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P7sLk3S0jQ30XQEuEsg3-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P7sLk3S0jQ30XQEuEsg3-4" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;提交&lt;/div&gt;&lt;span style=&quot;color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial; font-size: 13px; background-color: rgba(255, 255, 255, 0.01);&quot;&gt;《通用审批（ERP流程变更）》单&lt;/span&gt;" vertex="1">
-          <mxGeometry height="80" width="162.5" x="288.75" y="260" as="geometry" />
+          <mxGeometry height="60" width="161.25" x="288.75" y="260" as="geometry" />
         </mxCell>
         <mxCell id="P7sLk3S0jQ30XQEuEsg3-11" edge="1" parent="1" source="P7sLk3S0jQ30XQEuEsg3-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" target="P7sLk3S0jQ30XQEuEsg3-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P7sLk3S0jQ30XQEuEsg3-8" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.01);&quot;&gt;部门负责人审批&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="162.5" x="288.75" y="370" as="geometry" />
+          <mxGeometry height="60" width="171.25" x="283.75" y="350" as="geometry" />
         </mxCell>
         <mxCell id="P7sLk3S0jQ30XQEuEsg3-13" edge="1" parent="1" source="P7sLk3S0jQ30XQEuEsg3-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P7sLk3S0jQ30XQEuEsg3-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P7sLk3S0jQ30XQEuEsg3-10" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.01);&quot;&gt;参会部门负责人审批&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="162.5" x="288.75" y="490" as="geometry" />
+          <mxGeometry height="60" width="161.25" x="288.75" y="440" as="geometry" />
         </mxCell>
         <mxCell id="P7sLk3S0jQ30XQEuEsg3-15" edge="1" parent="1" source="P7sLk3S0jQ30XQEuEsg3-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P7sLk3S0jQ30XQEuEsg3-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P7sLk3S0jQ30XQEuEsg3-12" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.01);&quot;&gt;参会分管领导审批&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="162.5" x="288.75" y="600" as="geometry" />
+          <mxGeometry height="60" width="161.25" x="288.75" y="530" as="geometry" />
         </mxCell>
         <mxCell id="P7sLk3S0jQ30XQEuEsg3-17" edge="1" parent="1" source="P7sLk3S0jQ30XQEuEsg3-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" target="P7sLk3S0jQ30XQEuEsg3-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P7sLk3S0jQ30XQEuEsg3-14" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.01);&quot;&gt;总经理审批&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="162.5" x="288.75" y="710" as="geometry" />
+          <mxGeometry height="60" width="161.25" x="288.75" y="620" as="geometry" />
         </mxCell>
         <mxCell id="P7sLk3S0jQ30XQEuEsg3-19" edge="1" parent="1" source="P7sLk3S0jQ30XQEuEsg3-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" target="P7sLk3S0jQ30XQEuEsg3-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="P7sLk3S0jQ30XQEuEsg3-16" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.01);&quot;&gt;生效&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="162.5" x="288.75" y="820" as="geometry" />
+          <mxGeometry height="50" width="162.5" x="287.5" y="720" as="geometry" />
         </mxCell>
         <mxCell id="P7sLk3S0jQ30XQEuEsg3-18" parent="1" style="whiteSpace=wrap;html=1;rounded=1;" value="&lt;div style=&quot;resize: none; outline: none; font-size: 13px; color: rgb(50, 50, 50); font-family: &amp;quot;Microsoft YaHei&amp;quot;, 微软雅黑, Arial;&quot;&gt;&lt;span style=&quot;background-color: rgba(255, 255, 255, 0.01);&quot;&gt;综合部执行&lt;/span&gt;&lt;/div&gt;" vertex="1">
-          <mxGeometry height="80" width="162.5" x="540" y="820" as="geometry" />
+          <mxGeometry height="55" width="150" x="515" y="717.5" as="geometry" />
         </mxCell>
         <mxCell id="P7sLk3S0jQ30XQEuEsg3-20" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="线下" vertex="1">
-          <mxGeometry height="30" width="60" x="460" y="820" as="geometry" />
+          <mxGeometry height="30" width="60" x="455" y="705" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
